@@ -8,6 +8,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Regulus/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
+
+#### [Adhafera](/Adhafera) theme
+
+![](/Adhafera/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 ----------------------------------------------------------------
 
 ## Note :
