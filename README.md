@@ -13,6 +13,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Rasalas/preview.png)
 
+#### [Alterf](/Alterf) theme
+
+![](/Alterf/preview.png)
+
 #### [Adhafera](/Adhafera) theme
 
 ![](/Adhafera/preview.png)
