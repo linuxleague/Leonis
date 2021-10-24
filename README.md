@@ -13,6 +13,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Adhafera/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
+
+#### [Syrma](/Syrma) theme
+
+![](/Syrma/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/cRCyuPRuVfw)
 ----------------------------------------------------------------
 
 ## Note :
