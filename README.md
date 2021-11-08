@@ -1,4 +1,4 @@
-# LEONIS
+![greetings](/Asset/leonis.png)
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
@@ -21,6 +21,12 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Adhafera/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
+----------------------------------------------------------------
+### Featured
+#### [Izar](/Izar) theme
+
+![](/Izar/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/TsNjhAkCbY)
 
 #### [Syrma](/Syrma) theme
 
