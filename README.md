@@ -1,4 +1,4 @@
-![greetings](/Asset/leonis.png)
+![greetings](/Asset/Leonis.png)
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
