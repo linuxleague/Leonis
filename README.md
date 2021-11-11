@@ -28,6 +28,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Izar/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/TsNjhAkCbY)
 
+#### [Kochab](/Kochab) theme
+
+![](/Kochab/preview.png)
+
 #### [Syrma](/Syrma) theme
 
 ![](/Syrma/preview.png)
