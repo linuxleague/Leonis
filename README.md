@@ -23,6 +23,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 ----------------------------------------------------------------
 ### Featured
+#### [Saiph](/Saiph) theme
+
+![](/Saiph/preview.png)
 #### [Izar](/Izar) theme
 
 ![](/Izar/preview.png)
@@ -42,6 +45,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - syntax configuration of this theme for conky version 1.10.8 or newer
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - For a while the music player I used was `mocp`
+- If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
+	![](/Asset/Net.png)
 - I currently use Openbox, sometimes for other DE requires a slightly different setting
 - All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
