@@ -46,7 +46,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - For a while the music player I used was `mocp`
 - If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
-	![](/Asset/Net.png)
+	![](/Asset/Wlan.png)
 - I currently use Openbox, sometimes for other DE requires a slightly different setting
 - All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
