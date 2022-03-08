@@ -21,6 +21,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Adhafera/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
+#### [Zozma](/Zozma) theme
+
+![](/Zozma/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/eriuKJwcdjI)
 ----------------------------------------------------------------
 ### Featured
 #### [Saiph](/Saiph) theme
