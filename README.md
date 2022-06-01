@@ -2,7 +2,7 @@
 <!-- BADGES -->
 <h1>
   <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/owl4ce/dotfiles?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=A02C2C"/>
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Leonis?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=A02C2C"/>
   </a>
 </h1>
 A Conky themes pack which I made in hopes of beautifying your desktop 
