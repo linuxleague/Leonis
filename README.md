@@ -43,15 +43,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Kochab](/Kochab) theme
 
 ![](/Kochab/preview.png)
-
-#### [Syrma](/Syrma) theme
-
-![](/Syrma/preview.png)
-- Wallpaper [Here](https://unsplash.com/photos/cRCyuPRuVfw)
 ----------------------------------------------------------------
 
 ## Note :
-- syntax configuration of this theme for conky version 1.10.8 or newer
+- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - The music player I used was `mpd`
 - If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
