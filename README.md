@@ -80,3 +80,6 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 	- KWGT widget for Android
 	- ZOOPER widget
 	- RAINMETER 
+
+
+<p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
