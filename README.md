@@ -51,7 +51,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - The music player I used was `mpd`
 - If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
 	![](/Asset/Wlan.png)
-- I currently use Openbox, sometimes for other DE requires a slightly different setting
+- I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting
 	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here 
 - All fonts i get from:
 	 - [Dafont](https://www.dafont.com)
