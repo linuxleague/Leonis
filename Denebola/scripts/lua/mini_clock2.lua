@@ -28,10 +28,10 @@ draw_background = false, -- set to false if you do not want a bg fill
 draw_seconds    = true, -- draw the seconds ring
 
 -- Options if above is true
-seconds_ring_width       = 13,               -- seconds ring width
-seconds_ring_base_color  = {0xFFFFFF, 0.8}, -- base color
-seconds_ring_fill_color  = {0xFFFFFF, 0.1}, -- fill color
-seconds_ring_fill_colorS = {0xFFFFFF, 0.1},
+seconds_ring_width       = 4.5,               -- seconds ring width
+seconds_ring_base_color  = {0xFFFFFF, 0.3}, -- base color
+seconds_ring_fill_color  = {0xFFFFFF, 0.8}, -- fill color
+seconds_ring_fill_colorS = {0xFFFFFF, 0.9},
 
 -- Main settings
 xc = 125, -- centre of the clock
@@ -41,13 +41,13 @@ RH = 0,  -- outher radius for hours fill ring
 RM = 0,  -- outer radius for minutes fill ring
 rh = 0,  -- hour ring fill raius
 rm = 0,  -- minutes ring fill radius
-rs = 11,  -- seconds ring fill radius
+rs = 0,  -- seconds ring fill radius
 border_width = 0, -- radius border fill ring
 
 -- Color settings. {color, alpha}
 background_color = {0x2F2F2F, 0.6}, -- bgcolor id draw_background is true.
 fill_color       = {0x225588, 1},   -- fill color for hour+minutes ring
-fill_colorS      = {0x282C35, 1},   -- fill color for seconds ring
+fill_colorS      = {0x1E1F29, 1},   -- fill color for seconds ring
 border_colorS    = {0xFFDCDC, 1},   -- border color for seconds fill ring
 border_color     = {0xFFFFFF, 1},   -- border color for hours+minutes
 text_color       = {0x000000, 0},   -- color of numbers

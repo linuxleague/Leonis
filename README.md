@@ -9,6 +9,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ## Showcase :
 
+### :rocket: New theme !!!! :rocket:
+#### [Denebola](/Denebola) theme
+
+![](/Denebola/preview.png)
+----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 
 ![](/Regulus/preview.png)
@@ -32,9 +37,6 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/eriuKJwcdjI)
 ----------------------------------------------------------------
 ### Featured
-#### [Saiph](/Saiph) theme
-
-![](/Saiph/preview.png)
 #### [Izar](/Izar) theme
 
 ![](/Izar/preview.png)

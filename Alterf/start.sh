@@ -3,4 +3,4 @@
 killall conky
 sleep 2s
 		
-conky -c $HOME/.config/conky/Alterf/Aterf.conf &> /dev/null &
+conky -c $HOME/.config/conky/Alterf/Alterf.conf &> /dev/null &
