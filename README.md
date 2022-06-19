@@ -16,7 +16,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 
-![](/Regulus/preview.png)
+![](/Asset/regulus.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
 
 #### [Rasalas](/Rasalas) theme
