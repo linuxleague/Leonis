@@ -34,7 +34,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 #### [Zozma](/Zozma) theme
 
-![](/Zozma/preview.png)
+![](/Asset/zozma.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1832454/)
 - Wallpaper [Here](https://unsplash.com/photos/eriuKJwcdjI)
 ----------------------------------------------------------------
 ### Featured
