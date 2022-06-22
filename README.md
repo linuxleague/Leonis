@@ -10,9 +10,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### [Denebola](/Denebola) theme
+#### [Regulus](/Regulus) theme
 
-![](/Denebola/preview.png)
+![](/Asset/chertan.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 
@@ -32,6 +33,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 
 ![](/Adhafera/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
+#### [Denebola](/Denebola) theme
+
+![](/Denebola/preview.png)
 #### [Zozma](/Zozma) theme
 
 ![](/Asset/zozma.png)
@@ -95,6 +99,8 @@ I thank the people who have supported me,which makes me more excited to make new
 one of them are the following people:
 
 - [G Nussbaum](https://github.com/gnussbaum67)
+- [Yittri](https://github.com/yittri)
+- [Linuxscoop](https://github.com/linuxscoop/)
 
 ## :cyclone: Last
 - these themes are inspired by
