@@ -74,7 +74,7 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 	 - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
 	 - [Nunito](https://fonts.google.com/specimen/Nunito)
 	 - [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
-	 - [Feather icon font](feather https://github.com/AT-UI/feather-font)
+	 - [Feather icon font](https://github.com/AT-UI/feather-font)
 	 - [Raleway](https://fonts.google.com/specimen/Raleway)
 	 - [Scout](https://www.dafontfree.io/scout-font-family/)
 	 - [Beckman](https://www.dafont.com/beckman.font?l%5B%5D=10&l%5B%5D=1)
