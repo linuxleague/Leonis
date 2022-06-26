@@ -53,15 +53,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ----------------------------------------------------------------
 
 ## :cyclone: Tip Jar :
-if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes
-
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
 
 [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
 
-or
-
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
+
+or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
 
 ## :cyclone: Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
