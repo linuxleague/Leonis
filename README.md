@@ -10,19 +10,20 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### Coming Soon!!!
-![](/Asset/aludra.png)
-#### [Chertan](/Chertan) theme
+#### Shelyak theme
 
-![](/Asset/chertan.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
+![](/Asset/shelyak.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 
 ![](/Asset/regulus.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
+#### [Chertan](/Chertan) theme
 
+![](/Asset/chertan.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
 #### [Rasalas](/Rasalas) theme
 
 ![](/Rasalas/preview.png)
