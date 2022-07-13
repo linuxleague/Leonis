@@ -9,7 +9,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ### :rocket: New theme !!!! :rocket:
 #### Sirius theme
 
-![](/Asset/Sirius.png)
+![](/Asset/sirius.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1854716/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
@@ -114,10 +114,14 @@ one of them are the following people:
 - [Linuxscoop](https://github.com/linuxscoop/)
 
 ## :cyclone: Last
-- these themes are inspired by
+#### these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
-	- RAINMETER 
-
-
+	- RAINMETER
+	
+#### Credits
+	- Mini Clock Lua by easysid & Etles_Team
+	- Bargraph Lua by wlourf
+	- Rings meter Lua by londonali1010
+	
 <p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
