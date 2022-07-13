@@ -7,10 +7,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### Murphid theme
+#### Sirius theme
 
-![](/Asset/murphid.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
+![](/Asset/Sirius.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1854716/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 
@@ -43,10 +43,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 #### [Zozma](/Zozma) theme
 
 ![](/Asset/zozma.png)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1832454/)
+- You can download this theme separately [Here](https://www.pling.com/p/1832454/)
 - Wallpaper [Here](https://unsplash.com/photos/eriuKJwcdjI)
 ----------------------------------------------------------------
 ### Featured
+#### Murphid theme
+
+![](/Asset/murphid.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
 #### [Izar](/Izar) theme
 
 ![](/Asset/izar.png)
