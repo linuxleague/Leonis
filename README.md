@@ -19,9 +19,9 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 - Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
 #### Shelyak theme
-
+- Light Version
 ![](/Asset/shelyak.png)
-
+- Dark Version
 ![](/Asset/shelyak_dark.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
 #### [Chertan](/Chertan) theme
