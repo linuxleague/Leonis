@@ -21,6 +21,8 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 #### Shelyak theme
 
 ![](/Asset/shelyak.png)
+
+![](/Asset/shelyak_dark.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
 #### [Chertan](/Chertan) theme
 
