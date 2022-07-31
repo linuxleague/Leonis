@@ -8,10 +8,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: New theme !!!! :rocket:
-#### Sirius theme
+#### Mimosa theme
 
-![](/Asset/sirius.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1854716/)
+![](/Asset/mimosa.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1869486/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 Dark Version
@@ -27,41 +27,33 @@ Dark Version
 ![](/Asset/shelyak_dark.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
 #### [Chertan](/Chertan) theme
-
 ![](/Asset/chertan.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
 #### [Rasalas](/Rasalas) theme
-
 ![](/Rasalas/preview.png)
-
 #### [Alterf](/Alterf) theme
-
 ![](/Alterf/preview.png)
-
 #### [Adhafera](/Adhafera) theme
-
 ![](/Adhafera/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 #### [Denebola](/Denebola) theme
-
 ![](/Denebola/preview.png)
 #### [Zozma](/Zozma) theme
-
 ![](/Asset/zozma.png)
 - You can download this theme separately [Here](https://www.pling.com/p/1832454/)
 - Wallpaper [Here](https://unsplash.com/photos/eriuKJwcdjI)
 ----------------------------------------------------------------
 ### Featured
+#### Sirius theme
+![](/Asset/sirius.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1854716/)
 #### Murphid theme
-
 ![](/Asset/murphid.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
 #### [Izar](/Izar) theme
-
 ![](/Asset/izar.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833103/)
 #### [Kochab](/Kochab) theme
-
 ![](/Kochab/preview.png)
 ----------------------------------------------------------------
 
@@ -118,6 +110,7 @@ one of them are the following people:
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
 - [Ilham Adiputra](https://github.com/ilham25/)
+- Jose Arivar Lira Jr
 
 ## :cyclone: Last
 #### these themes are inspired by
