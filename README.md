@@ -10,7 +10,10 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 ### :rocket: New theme !!!! :rocket:
 #### Mimosa theme
 
-![](/Asset/mimosa.png)
+Dark Version
+![](/Asset/mimosa_dark.png)
+Light Version
+![](/Asset/mimosa_light.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1869486/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
