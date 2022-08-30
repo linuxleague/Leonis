@@ -33,14 +33,14 @@ Dark Version
 ![](/Asset/chertan.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
 #### [Rasalas](/Rasalas) theme
-![](/Rasalas/preview.png)
+![](/Asset/rasalas.png)
 #### [Alterf](/Alterf) theme
-![](/Alterf/preview.png)
+![](/Asset/alterf.png)
 #### [Adhafera](/Adhafera) theme
-![](/Adhafera/preview.png)
+![](/Asset/adhafera.png)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 #### [Denebola](/Denebola) theme
-![](/Denebola/preview.png)
+![](/Asset/denebola.png)
 #### [Zozma](/Zozma) theme
 ![](/Asset/zozma.png)
 - You can download this theme separately [Here](https://www.pling.com/p/1832454/)
@@ -57,7 +57,7 @@ Dark Version
 ![](/Asset/izar.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833103/)
 #### [Kochab](/Kochab) theme
-![](/Kochab/preview.png)
+![](/Asset/kochab.png)
 ----------------------------------------------------------------
 
 ## :cyclone: Tip Jar :
