@@ -9,7 +9,6 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 
 ### :rocket: New theme !!!! :rocket:
 #### Mimosa theme
-
 Dark Version
 ![](/Asset/mimosa_dark.png)
 Light Version
