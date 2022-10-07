@@ -11,3 +11,5 @@ city_id=323786
 
 url="api.openweathermap.org/data/2.5/weather?id=${city_id}&appid=${api_key}&cnt=5&units=metric&lang=en"
 curl ${url} -s -o ~/.cache/weather.json
+
+exit
