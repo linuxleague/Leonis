@@ -16,3 +16,5 @@ if [[ "${SSID_NAME}" != "" ]]; then
 else
 echo "Not Connected"
 fi
+
+exit
