@@ -41,9 +41,8 @@ Dark Version
 #### [Denebola](/Denebola) theme
 ![](/Asset/denebola.png)
 #### [Zozma](/Zozma) theme
-![](/Asset/zozma.png)
+![](/Asset/Zozma.jpg)
 - You can download this theme separately [Here](https://www.pling.com/p/1832454/)
-- Wallpaper [Here](https://unsplash.com/photos/eriuKJwcdjI)
 ----------------------------------------------------------------
 ### Featured
 #### Sirius theme
@@ -125,4 +124,4 @@ one of them are the following people:
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
 	
-<p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
+<p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>

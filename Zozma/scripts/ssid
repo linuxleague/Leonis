@@ -16,5 +16,3 @@ if [[ "${SSID_NAME}" != "" ]]; then
 else
 echo "None"
 fi
-
-exit

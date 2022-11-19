@@ -47,7 +47,7 @@ border_width = 0, -- radius border fill ring
 -- Color settings. {color, alpha}
 background_color = {0x2F2F2F, 0.6}, -- bgcolor id draw_background is true.
 fill_color       = {0x3B3D50, 1},   -- fill color for hour+minutes ring
-fill_colorS      = {0xD40055, 1},   -- fill color for seconds ring
+fill_colorS      = {0x008080, 1},   -- fill color for seconds ring
 border_colorS    = {0xFFDCDC, 1},   -- border color for seconds fill ring
 border_color     = {0xAB9F6F, 1},   -- border color for hours+minutes
 text_color       = {0x00EFFF, 1},   -- color of numbers
