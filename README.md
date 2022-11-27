@@ -11,9 +11,10 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 #### Mimosa theme
 Dark Version
 ![](/Asset/mimosa_dark.png)
+- Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
+- Available in Six Variants with preset color
 Light Version
 ![](/Asset/mimosa_light.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1869486/)
 ----------------------------------------------------------------
 #### [Regulus](/Regulus) theme
 Dark Version
