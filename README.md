@@ -13,7 +13,6 @@ Dark Version
 ![](/Asset/mimosa_dark.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
 - Available in Six Variants with preset color<br />
-
 Light Version
 ![](/Asset/mimosa_light.png)
 ----------------------------------------------------------------
@@ -49,7 +48,7 @@ Dark Version
 ### Featured
 #### Sirius theme
 ![](/Asset/sirius.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1854716/)
+- Only available at Ko-fi Shop [Here](https://ko-fi.com/s/4f23c4e1e1)
 #### Murphid theme
 ![](/Asset/murphid.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
