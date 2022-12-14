@@ -19,6 +19,7 @@ Light Version
 #### [Regulus](/Regulus) theme
 Dark Version
 ![](/Asset/regulus.png)
+- 6 color choices available at Ko-fi Shop [Here](https://ko-fi.com/s/8ffe99091c)
 Light Version
 ![](/Asset/regulus_light.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
@@ -43,7 +44,7 @@ Dark Version
 ![](/Asset/denebola.png)
 #### [Zozma](/Zozma) theme
 ![](/Asset/Zozma.jpg)
-- You can download this theme separately [Here](https://www.pling.com/p/1832454/)
+- Only available at Pling.com [Here](https://www.pling.com/p/1832454/)
 ----------------------------------------------------------------
 ### Featured
 #### Sirius theme
