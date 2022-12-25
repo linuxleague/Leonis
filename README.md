@@ -36,7 +36,8 @@ Dark Version
 #### [Rasalas](/Rasalas) theme
 ![](/Asset/rasalas.png)
 #### [Alterf](/Alterf) theme
-![](/Asset/alterf.png)
+![](/Asset/alterf.jpg)
+- Only available at Pling.com [Link](https://www.pling.com/p/1961175/)
 #### [Adhafera](/Adhafera) theme
 ![](/Asset/adhafera.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1959962/)
