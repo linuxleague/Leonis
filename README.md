@@ -13,6 +13,7 @@ Dark Version
 ![](/Asset/mimosa_dark.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
 - Available in Six Variants with preset color<br />
+
 Light Version
 ![](/Asset/mimosa_light.png)
 ----------------------------------------------------------------
