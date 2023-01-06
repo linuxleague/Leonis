@@ -2,9 +2,9 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Leonis&countColor=%23A02C2C)
 
-A Conky themes pack which I made in hopes of beautifying your desktop 
+A Conky themes pack which I made in hopes of beautifying your desktop, for now this repository is only used as a catalog for the themes that I made, and as a place to look for solutions if there are errors from that theme
 
-## :cyclone: Showcase :
+## :framed_picture: Showcase :
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: New theme !!!! :rocket:
@@ -35,6 +35,7 @@ Dark Version
 - Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
 #### [Rasalas](/Rasalas) theme
 ![](/Asset/rasalas.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 #### [Alterf](/Alterf) theme
 ![](/Asset/alterf.jpg)
 - Only available at Pling.com [Link](https://www.pling.com/p/1961175/)
@@ -44,6 +45,7 @@ Dark Version
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 #### [Denebola](/Denebola) theme
 ![](/Asset/denebola.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 #### [Zozma](/Zozma) theme
 ![](/Asset/Zozma.jpg)
 - Only available at Pling.com [Here](https://www.pling.com/p/1832454/)
@@ -60,9 +62,10 @@ Dark Version
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833103/)
 #### [Kochab](/Kochab) theme
 ![](/Asset/kochab.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 ----------------------------------------------------------------
 
-## :cyclone: Tip Jar :
+## :moneybag: Tip Jar :
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
 
@@ -72,40 +75,24 @@ thank you from all my heart
 
 or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
 
-## :cyclone: Note :
-- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
-- the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
-- The music player I used was `mpd`
-- If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
-	![](/Asset/Wlan.png)
-- I currently use Openbox and XFCE, sometimes for other DE requires a slightly different setting
-	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here 
-- Font Source :
-	 - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
-	 - [Nunito](https://fonts.google.com/specimen/Nunito)
-	 - [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
-	 - [Feather icon font](https://github.com/AT-UI/feather-font)
-	 - [Raleway](https://fonts.google.com/specimen/Raleway)
-	 - [Scout](https://www.dafontfree.io/scout-font-family/)
-	 - [Beckman](https://www.dafont.com/beckman.font?l%5B%5D=10&l%5B%5D=1)
+## :desktop_computer: How to use theme :
+- Download the theme in the link below the preview of each theme
+- Then read this [Instruction](https://github.com/closebox73/applying-theme)
+- If there is an error in my theme, please add it to the issue
+
+## :abc: Font Source :
+ - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
+ - [Nunito](https://fonts.google.com/specimen/Nunito)
+ - [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+ - [Feather icon font](https://github.com/AT-UI/feather-font)
+ - [Raleway](https://fonts.google.com/specimen/Raleway)
+ - [Scout](https://www.dafontfree.io/scout-font-family/)
+ - [Beckman](https://www.dafont.com/beckman.font?l%5B%5D=10&l%5B%5D=1)
 
 ## :cyclone: Requirements :
 - Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
 - for the weather theme I download the data using `curl` in json format, and use `jq` to process the data, please install first.
 - if you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
-
-## :cyclone: How to use theme :
-- Clone this repo by command
-  ```bash
-  git clone https://github.com/closebox73/Leonis.git
-  ```
-- Move one or more theme folders into ~/.config/conky/
-- Open a folder that will be used and Install all font in fonts folder ( if you haven't installed the font ) then update font cache
-- For weather theme you must have API KEY and city id ( you can get it [Here](https://openweathermap.org) and fill weather.sh in scripts folder
-- Execute `start.sh`
-- If you use conky-manager2, just check the theme to be installed
-	![](/Asset/CM2.png)
-- Done
 
 ## :gift: Special Thanks :
 I thank the people who have supported me,which makes me more excited to make new themes<br />
@@ -115,12 +102,24 @@ one of them are the following people:
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
 - [Ilham Adiputra](https://github.com/ilham25/)
+
+And the greatest appreciation for the people who have bought my theme at my [Ko-Fi Shop](https://ko-fi.com/closebox73)
+
+- Andrew J.
+- Yikang Y.
+- Justin Y.
+- Malik N.
+- Aidyn J.
+- Ockham O.
+- Seurya
 - Jose Arivar Lira Jr
+- and others
 
 ## :cyclone: Last
-#### these themes are inspired by
+#### These themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
+	- XWidget
 	- RAINMETER
 	
 #### Credits
