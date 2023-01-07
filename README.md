@@ -136,12 +136,4 @@ And the greatest appreciation for the people who have bought my theme at my [Ko-
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
 	
-<h1></h1>
-
-<pre align="center">
-<a href="https://github.com/closebox73/Leonis/blob/master/README.md">BACK TO TOP</a>
-</pre>
-
-</div>
-	
 <p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
