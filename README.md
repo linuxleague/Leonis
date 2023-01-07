@@ -5,61 +5,71 @@
 A Conky themes pack which I made in hopes of beautifying your desktop, for now this repository is only used as a catalog for the themes that I made, and as a place to look for solutions if there are errors from that theme
 
 ## :framed_picture: Showcase :
-I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
+Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :stars: Mimosa theme
 #### Dark Version
 ![](/Asset/mimosa_dark.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
-- Available in Six Variants with preset color<br />
-
+- Available in Six Variants with preset color
 #### Light Version
 ![](/Asset/mimosa_light.png)
-### [Regulus](/Regulus) theme
-Dark Version
+
+### :stars: Regulus theme
+#### Dark Version
 ![](/Asset/regulus.png)
 - 6 color choices available at Ko-fi Shop [Here](https://ko-fi.com/s/8ffe99091c)
-Light Version
+#### Light Version
 ![](/Asset/regulus_light.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
-### Shelyak theme
-Light Version
+
+### :stars: Shelyak theme
+#### Light Version
 ![](/Asset/shelyak.png)
-Dark Version
+#### Dark Version
 ![](/Asset/shelyak_dark.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
-### [Chertan](/Chertan) theme
+
+### :stars: Chertan theme
 ![](/Asset/chertan.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
-### [Rasalas](/Rasalas) theme
+
+### :stars: Rasalas theme
 ![](/Asset/rasalas.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
+
 ### [Alterf](/Alterf) theme
 ![](/Asset/alterf.jpg)
 - Only available at Pling.com [Link](https://www.pling.com/p/1961175/)
-### [Adhafera](/Adhafera) theme
+
+### :stars: Adhafera theme
 ![](/Asset/adhafera.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1959962/)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
-### [Denebola](/Denebola) theme
+
+### :stars: Denebola theme
 ![](/Asset/denebola.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
-### [Zozma](/Zozma) theme
+
+### :stars: Zozma theme
 ![](/Asset/Zozma.jpg)
 - Only available at Pling.com [Here](https://www.pling.com/p/1832454/)
 ----------------------------------------------------------------
 ### Featured
-### Sirius theme
+### :stars: Sirius theme
 ![](/Asset/sirius.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/4f23c4e1e1)
-### Murphid theme
+
+### :stars: Murphid theme
 ![](/Asset/murphid.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
-### [Izar](/Izar) theme
+
+### :stars: Izar theme
 ![](/Asset/izar.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833103/)
-### [Kochab](/Kochab) theme
+
+### :stars: Kochab theme
 ![](/Asset/kochab.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 ----------------------------------------------------------------
@@ -125,5 +135,13 @@ And the greatest appreciation for the people who have bought my theme at my [Ko-
 	- Mini Clock Lua by easysid & Etles_Team
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
+	
+<h1></h1>
+
+<pre align="center">
+<a href="https://github.com/closebox73/Leonis/blob/master/README.md">BACK TO TOP</a>
+</pre>
+
+</div>
 	
 <p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
