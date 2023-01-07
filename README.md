@@ -8,12 +8,12 @@ A Conky themes pack which I made in hopes of beautifying your desktop, for now t
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :stars: Mimosa theme
-####Dark Version
+#### Dark Version
 ![](/Asset/mimosa_dark.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
 - Available in Six Variants with preset color<br />
 
-####Light Version
+#### Light Version
 ![](/Asset/mimosa_light.png)
 ### [Regulus](/Regulus) theme
 Dark Version
