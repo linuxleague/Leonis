@@ -39,7 +39,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/rasalas.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 
-### [Alterf](/Alterf) theme
+### :stars: Alterf theme
 ![](/Asset/alterf.jpg)
 - Only available at Pling.com [Link](https://www.pling.com/p/1961175/)
 
@@ -97,11 +97,6 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
  - [Raleway](https://fonts.google.com/specimen/Raleway)
  - [Scout](https://www.dafontfree.io/scout-font-family/)
  - [Beckman](https://www.dafont.com/beckman.font?l%5B%5D=10&l%5B%5D=1)
-
-## :cyclone: Requirements :
-- Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
-- for the weather theme I download the data using `curl` in json format, and use `jq` to process the data, please install first.
-- if you want to use the GUI when installing the theme, please install [conky-manager2](https://github.com/zcot/conky-manager2)
 
 ## :gift: Special Thanks :
 I thank the people who have supported me,which makes me more excited to make new themes<br />
