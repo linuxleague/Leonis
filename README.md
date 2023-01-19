@@ -7,7 +7,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop, for now t
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
-### :stars: Mimosa theme
+### :lion: Mimosa theme
 #### Dark Version
 ![](/Asset/mimosa_dark.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
@@ -15,7 +15,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 #### Light Version
 ![](/Asset/mimosa_light.png)
 
-### :stars: Regulus theme
+### :lion: Regulus theme
 #### Dark Version
 ![](/Asset/regulus.png)
 - 6 color choices available at Ko-fi Shop [Here](https://ko-fi.com/s/8ffe99091c)
@@ -24,52 +24,52 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 - Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
 
-### :stars: Shelyak theme
+### :lion: Shelyak theme
 #### Light Version
 ![](/Asset/shelyak.png)
 #### Dark Version
 ![](/Asset/shelyak_dark.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
 
-### :stars: Chertan theme
+### :lion: Chertan theme
 ![](/Asset/chertan.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
 
-### :stars: Rasalas theme
+### :lion: Rasalas theme
 ![](/Asset/rasalas.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 
-### :stars: Alterf theme
+### :lion: Alterf theme
 ![](/Asset/alterf.jpg)
 - Only available at Pling.com [Link](https://www.pling.com/p/1961175/)
 
-### :stars: Adhafera theme
+### :lion: Adhafera theme
 ![](/Asset/adhafera.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1959962/)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 
-### :stars: Denebola theme
+### :lion: Denebola theme
 ![](/Asset/denebola.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 
-### :stars: Zozma theme
+### :lion: Zozma theme
 ![](/Asset/Zozma.jpg)
 - Only available at Pling.com [Here](https://www.pling.com/p/1832454/)
 ----------------------------------------------------------------
 ### Featured
-### :stars: Sirius theme
+### :lion: Sirius theme
 ![](/Asset/sirius.png)
 - Only available at Ko-fi Shop [Here](https://ko-fi.com/s/4f23c4e1e1)
 
-### :stars: Murphid theme
+### :lion: Murphid theme
 ![](/Asset/murphid.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
 
-### :stars: Izar theme
+### :lion: Izar theme
 ![](/Asset/izar.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1833103/)
 
-### :stars: Kochab theme
+### :lion: Kochab theme
 ![](/Asset/kochab.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
 ----------------------------------------------------------------
