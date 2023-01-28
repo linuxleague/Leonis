@@ -7,6 +7,20 @@ A Conky themes pack which I made in hopes of beautifying your desktop, for now t
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
+### :rocket: New theme :rocket:
+
+### :lion: Naos theme
+![](/Asset/Naos.jpg)
+- Version : 1.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1978184/)
+- Wallpaper [Here](https://unsplash.com/photos/6lQDFGOB1iw)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Nunito](https://fonts.google.com/specimen/Nunito)
+	- [Feather](https://github.com/AT-UI/feather-font)
+	
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+
 ### :lion: Mimosa theme
 #### Dark Version
 ![](/Asset/mimosa_dark.png)
