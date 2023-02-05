@@ -32,7 +32,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 	- [Feather](https://github.com/AT-UI/feather-font)
 	
 #### Light Version
-![](/Asset/Mimosa_Light.jpg)
+![](/Asset/Mimosa-Light.jpg)
 - Version : 2.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1982387/)
 - Font :
