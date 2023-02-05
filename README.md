@@ -24,10 +24,23 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :lion: Mimosa theme
 #### Dark Version
 ![](/Asset/mimosa_dark.png)
-- Only available at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
+- Download this theme at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
 - Available in Six Variants with preset color
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Abel](https://fonts.google.com/specimen/Abel)
+	- [Feather](https://github.com/AT-UI/feather-font)
+	
 #### Light Version
-![](/Asset/mimosa_light.png)
+![](/Asset/Mimosa_Light.jpg)
+- Version : 2.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1982387/)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Abel](https://fonts.google.com/specimen/Abel)
+	- [Feather](https://github.com/AT-UI/feather-font)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Regulus theme
 #### Dark Version
@@ -35,57 +48,77 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 - 6 color choices available at Ko-fi Shop [Here](https://ko-fi.com/s/8ffe99091c)
 #### Light Version
 ![](/Asset/regulus_light.png)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1832239/)
+- Now Download this theme at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Shelyak theme
 #### Light Version
 ![](/Asset/shelyak.png)
 #### Dark Version
 ![](/Asset/shelyak_dark.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1839849/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1839849/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Chertan theme
 ![](/Asset/chertan.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1835142/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1835142/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Rasalas theme
 ![](/Asset/rasalas.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Alterf theme
 ![](/Asset/alterf.jpg)
-- Only available at Pling.com [Link](https://www.pling.com/p/1961175/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1961175/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Adhafera theme
 ![](/Asset/adhafera.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1959962/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1959962/)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Denebola theme
 ![](/Asset/denebola.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Zozma theme
 ![](/Asset/Zozma.jpg)
-- Only available at Pling.com [Here](https://www.pling.com/p/1832454/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1832454/)
 ----------------------------------------------------------------
 ### Featured
 ### :lion: Sirius theme
 ![](/Asset/sirius.png)
-- Only available at Ko-fi Shop [Here](https://ko-fi.com/s/4f23c4e1e1)
+- Download this theme at Ko-fi Shop [Here](https://ko-fi.com/s/4f23c4e1e1)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Murphid theme
 ![](/Asset/murphid.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1843842/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1843842/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Izar theme
 ![](/Asset/izar.png)
-- Now only available at Pling.com [Link](https://www.pling.com/p/1833103/)
+- Now Download this theme at Pling.com [Link](https://www.pling.com/p/1833103/)
+
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Kochab theme
 ![](/Asset/kochab.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1966107/)
+- Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
 ----------------------------------------------------------------
 
 ## :moneybag: Tip Jar :
