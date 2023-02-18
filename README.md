@@ -4,10 +4,17 @@
 
 A Conky themes pack which I made in hopes of beautifying your desktop, for now this repository is only used as a catalog for the themes that I made, and as a place to look for solutions if there are errors from that theme
 
+## :book: The Myth about Orion
+Leo represents the Nemean Lion, a beast with an impenetrable hide and razor sharp claws.  Some say It lived in the hills of Nemea in Greece.  It originally lived on the Moon and it descended to Earth as a shooting star.  Killing this creature was the first of the 12 Labors of Hercules.  The hero defeated the lion by wrestling it until he could lock his arms around it and then strangled it to death.  He used the lion’s own claws, the only things sharp enough, to skin the beast.  From that day forward Hercules wore the pelt as his armor.  The king of gods placed this king of the beasts back into the sky from where it had originally come.<br>
+*( Source : [Under the night sky ](http://www.underthenightsky.com/constellations/leo/))*
+
+![](/Asset/Leonis.jpg)
+|--|
+
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
-### :rocket: New theme :rocket:
+### :rocket: NEW THEME!! :rocket:
 
 ### :lion: Naos theme
 ![](/Asset/Naos.jpg)
@@ -64,7 +71,11 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Chertan theme
 ![](/Asset/chertan.png)
+- Version : 2.8
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1835142/)
+- Font :
+	- [Raleway](https://fonts.google.com/specimen/Raleway)
+	- [Feather](https://github.com/AT-UI/feather-font)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
@@ -136,14 +147,16 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 - Then read this [Instruction](https://github.com/closebox73/applying-theme)
 - If there is an error in my theme, please add it to the issue
 
-## :abc: Font Source :
- - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
- - [Nunito](https://fonts.google.com/specimen/Nunito)
- - [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
- - [Feather icon font](https://github.com/AT-UI/feather-font)
- - [Raleway](https://fonts.google.com/specimen/Raleway)
- - [Scout](https://www.dafontfree.io/scout-font-family/)
- - [Beckman](https://www.dafont.com/beckman.font?l%5B%5D=10&l%5B%5D=1)
+## Material Source :
+### :abc: Font
+I always try to use fonts that can be used for free and that's what I got at :
+- [Google Fonts](https://fonts.google.com/)
+- [DaFont Fonts](https://dafont.com/)
+- [Fontsquirrel](https://fontsquirrel.com)
+
+### :framed_picture: Wallpaper
+as well as the wallpaper, i got it at
+- [Unsplash](https://unsplash.com/)
 
 ## :gift: Special Thanks :
 I thank the people who have supported me,which makes me more excited to make new themes<br />
@@ -156,6 +169,8 @@ one of them are the following people:
 
 And the greatest appreciation for the people who have bought my theme at my [Ko-Fi Shop](https://ko-fi.com/closebox73)
 
+- Ageless_ZA
+- Ignacio M.
 - Andrew J.
 - Yikang Y.
 - Justin Y.
