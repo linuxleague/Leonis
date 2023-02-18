@@ -4,7 +4,7 @@
 
 A Conky themes pack which I made in hopes of beautifying your desktop, for now this repository is only used as a catalog for the themes that I made, and as a place to look for solutions if there are errors from that theme
 
-## :book: The Myth about Orion
+## :book: The Myth about Leonis
 Leo represents the Nemean Lion, a beast with an impenetrable hide and razor sharp claws.  Some say It lived in the hills of Nemea in Greece.  It originally lived on the Moon and it descended to Earth as a shooting star.  Killing this creature was the first of the 12 Labors of Hercules.  The hero defeated the lion by wrestling it until he could lock his arms around it and then strangled it to death.  He used the lion’s own claws, the only things sharp enough, to skin the beast.  From that day forward Hercules wore the pelt as his armor.  The king of gods placed this king of the beasts back into the sky from where it had originally come.<br>
 *( Source : [Under the night sky ](http://www.underthenightsky.com/constellations/leo/))*
 
