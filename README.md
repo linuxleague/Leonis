@@ -148,17 +148,17 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 - If there is an error in my theme, please add it to the issue
 
 ## Material Source :
-###:abc: Font
+### :abc: Font
 I always try to use fonts that can be used for free and that's what I got at :
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont Fonts](https://dafont.com/)
 - [Fontsquirrel](https://fontsquirrel.com)
 
-###:framed_picture: Wallpaper
+### :framed_picture: Wallpaper
 as well as the wallpaper, i got it at
 - [Unsplash](https://unsplash.com/)
 
-##:gift: Special Thanks :
+## :gift: Special Thanks :
 I thank the people who have supported me,which makes me more excited to make new themes<br />
 one of them are the following people:
 
@@ -181,7 +181,7 @@ And the greatest appreciation for the people who have bought my theme at my [Ko-
 - Jose Arivar Lira Jr
 - and others
 
-##:cyclone: Last
+## :cyclone: Last
 #### These themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
