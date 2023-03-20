@@ -110,8 +110,12 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ----------------------------------------------------------------
 ### Featured
 ### :lion: Sirius theme
-![](/Asset/sirius.png)
-- Download this theme at Ko-fi Shop [Here](https://ko-fi.com/s/4f23c4e1e1)
+![](/Asset/Sirius.jpg)
+- Version : 2.9
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1854716/)
+- Font :
+	- [Finlandica](https://fonts.google.com/specimen/Finlandica)
+	- [Feather](https://github.com/AT-UI/feather-font)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
@@ -124,12 +128,6 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :lion: Izar theme
 ![](/Asset/izar.png)
 - Now Download this theme at Pling.com [Link](https://www.pling.com/p/1833103/)
-
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
-
-### :lion: Kochab theme
-![](/Asset/kochab.png)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
 ----------------------------------------------------------------
 
 ## :moneybag: Tip Jar :
@@ -190,9 +188,10 @@ And the greatest appreciation for the people who have bought my theme at my [Ko-
 	
 #### Credits
 	- Mini Clock Lua by easysid & Etles_Team
+	- Imlib Clock Lua by Etles_Team
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
-	
+
 ![](/Asset/logos.png)
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 <p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
