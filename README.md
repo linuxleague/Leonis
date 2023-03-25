@@ -15,7 +15,6 @@ Leo represents the Nemean Lion, a beast with an impenetrable hide and razor shar
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 ### :rocket: NEW THEME!! :rocket:
-
 ### :lion: Naos theme
 ![](/Asset/Naos.jpg)
 - Version : 1.0
