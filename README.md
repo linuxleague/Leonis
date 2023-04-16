@@ -30,8 +30,8 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :lion: Mimosa theme
 #### Dark Version
 ![](/Asset/Mimosa-dark.jpg)
-- Download this theme at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
-- Available in Six Variants with preset color
+- Version : 2.3
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1869486/)
 - Font :
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
 	- [Abel](https://fonts.google.com/specimen/Abel)
@@ -39,7 +39,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 	
 #### Light Version
 ![](/Asset/Mimosa-Light.jpg)
-- Version : 2.0
+- Version : 2.3
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1982387/)
 - Font :
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
@@ -51,27 +51,39 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :lion: Regulus theme
 #### Dark Version
 ![](/Asset/Regulus.jpg)
-- 6 color choices available at Ko-fi Shop [Here](https://ko-fi.com/s/8ffe99091c)
+- Version : 2.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1955473/)
 #### Light Version
 ![](/Asset/Regulus-Light.jpg)
-- Now Download this theme at Pling.com [Link](https://www.pling.com/p/1832239/)
+- Version : 2.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Abel](https://fonts.google.com/specimen/Abel)
+	- [Dosis](https://fonts.google.com/specimen/Dosis)
+	- [Feather](https://github.com/AT-UI/feather-font)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Shelyak theme
 #### Light Version
 ![](/Asset/Shelyak.jpg)
+- Version : 1.3
 #### Dark Version
 ![](/Asset/Shelyak-Dark.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1839849/)
+- Version : 2.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1839849/)
+- Font :
+	- [Abel](https://fonts.google.com/specimen/Abel)
+	- [Feather](https://github.com/AT-UI/feather-font)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Chertan theme
 ![](/Asset/Chertan.jpg)
 - Version : 2.8
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1835142/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1835142/)
 - Font :
 	- [Raleway](https://fonts.google.com/specimen/Raleway)
 	- [Feather](https://github.com/AT-UI/feather-font)
@@ -80,26 +92,32 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Rasalas theme
 ![](/Asset/Rasalas.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
+- Version : 1.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1966107/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Alterf theme
 ![](/Asset/Alterf.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1961175/)
+- Version : 2.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1961175/)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Nunito](https://fonts.google.com/specimen/Nunito)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Adhafera theme
 ![](/Asset/Adhafera.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1959962/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1959962/)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Denebola theme
 ![](/Asset/Denebola.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
+- Version : 1.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1966107/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
@@ -120,13 +138,13 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Murphid theme
 ![](/Asset/Murphid.jpg)
-- Download this theme at Pling.com [Link](https://www.pling.com/p/1843842/)
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1843842/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Izar theme
 ![](/Asset/Izar.jpg)
-- Now Download this theme at Pling.com [Link](https://www.pling.com/p/1833103/)
+- Now Download this theme at Pling.com [Here](https://www.pling.com/p/1833103/)
 ----------------------------------------------------------------
 
 ## :moneybag: Tip Jar :
