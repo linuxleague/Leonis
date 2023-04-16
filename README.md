@@ -50,10 +50,10 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Regulus theme
 #### Dark Version
-![](/Asset/regulus.png)
+![](/Asset/Regulus.jpg)
 - 6 color choices available at Ko-fi Shop [Here](https://ko-fi.com/s/8ffe99091c)
 #### Light Version
-![](/Asset/regulus_light.png)
+![](/Asset/Regulus-Light.jpg)
 - Now Download this theme at Pling.com [Link](https://www.pling.com/p/1832239/)
 - Wallpaper [Here](https://unsplash.com/photos/GAg4h8_mPCs)
 
@@ -61,9 +61,9 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Shelyak theme
 #### Light Version
-![](/Asset/shelyak.png)
+![](/Asset/Shelyak.jpg)
 #### Dark Version
-![](/Asset/shelyak_dark.png)
+![](/Asset/Shelyak-Dark.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1839849/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
@@ -79,7 +79,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Rasalas theme
-![](/Asset/rasalas.png)
+![](/Asset/Rasalas.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
@@ -119,7 +119,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Murphid theme
-![](/Asset/murphid.png)
+![](/Asset/Murphid.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1843842/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
