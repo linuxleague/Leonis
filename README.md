@@ -29,7 +29,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Mimosa theme
 #### Dark Version
-![](/Asset/mimosa_dark.png)
+![](/Asset/Mimosa-dark.jpg)
 - Download this theme at Ko-fi Shop [Here](https://ko-fi.com/s/1b99f5885f)
 - Available in Six Variants with preset color
 - Font :
@@ -69,7 +69,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Chertan theme
-![](/Asset/chertan.png)
+![](/Asset/Chertan.jpg)
 - Version : 2.8
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1835142/)
 - Font :
@@ -85,20 +85,20 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Alterf theme
-![](/Asset/alterf.jpg)
+![](/Asset/Alterf.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1961175/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Adhafera theme
-![](/Asset/adhafera.png)
+![](/Asset/Adhafera.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1959962/)
 - Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Denebola theme
-![](/Asset/denebola.png)
+![](/Asset/Denebola.jpg)
 - Download this theme at Pling.com [Link](https://www.pling.com/p/1966107/)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
@@ -125,7 +125,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
 ### :lion: Izar theme
-![](/Asset/izar.png)
+![](/Asset/Izar.jpg)
 - Now Download this theme at Pling.com [Link](https://www.pling.com/p/1833103/)
 ----------------------------------------------------------------
 
