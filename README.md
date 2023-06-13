@@ -151,8 +151,6 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
 
-[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
-
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
 
 or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
