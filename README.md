@@ -123,6 +123,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Zozma theme
 ![](/Asset/Zozma.jpg)
+- Version : 1.5
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1832454/)
 ----------------------------------------------------------------
 ### Featured
