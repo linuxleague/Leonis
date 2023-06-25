@@ -181,19 +181,19 @@ one of them are the following people:
 - [Linuxscoop](https://github.com/linuxscoop/)
 - [Ilham Adiputra](https://github.com/ilham25/)
 
-And the greatest appreciation for the people who have bought my theme at my [Ko-Fi Shop](https://ko-fi.com/closebox73)
+And the greatest appreciation for the people who have bought my theme at my ~~Ko-Fi Shop~~
 
-- Ageless_ZA
-- Ignacio M.
-- Andrew J.
-- Yikang Y.
-- Justin Y.
-- Malik N.
-- Aidyn J.
-- Ockham O.
-- Seurya
-- Jose Arivar Lira Jr
-- and others
+	- Ageless_ZA
+	- Ignacio M.
+	- Andrew J.
+	- Yikang Y.
+	- Justin Y.
+	- Malik N.
+	- Aidyn J.
+	- Ockham O.
+	- Seurya
+	- Jose Arivar Lira Jr
+	- and others
 
 ## :cyclone: Last
 #### These themes are inspired by
