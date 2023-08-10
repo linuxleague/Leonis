@@ -14,7 +14,6 @@ Leo represents the Nemean Lion, a beast with an impenetrable hide and razor shar
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
-### :rocket: NEW THEME!! :rocket:
 ### :lion: Naos theme
 ![](/Asset/Naos.jpg)
 - Version : 1.0
@@ -145,7 +144,12 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 ### :lion: Izar theme
 ![](/Asset/Izar.jpg)
-- Now Download this theme at Pling.com [Here](https://www.pling.com/p/1833103/)
+- Version : 3.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1833103/)
+- Font :
+	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
+	- [Rubik](https://fonts.google.com/specimen/Rubik)
+	- [Feather](https://github.com/AT-UI/feather-font)
 ----------------------------------------------------------------
 
 ## :moneybag: Tip Jar :
