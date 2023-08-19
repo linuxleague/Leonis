@@ -1,15 +1,29 @@
-![greetings](/Asset/Leonis.png)
+<a name="readme-top"></a>
+<div align="center" id="Leonis">
+    <img src="https://github.com/closebox73/Leonis/blob/main/Asset/Leonis.svg" width="450", height="300">
+</div>
+<h1 align="center">Conky Themes Pack</h1>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Leonis&countColor=%23A02C2C)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/closebox73/Leonis?style=for-the-badge&color=7DCFFF">
+  <img src="https://img.shields.io/github/issues/closebox73/Leonis?&style=for-the-badge&color=E0AF68">
+  <img src="https://img.shields.io/github/forks/closebox73/Leonis?&style=for-the-badge&color=F7768E">
+  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/closebox73/Leonis?style=for-the-badge&color=AD8EE6">
+  <img src="https://img.shields.io/github/license/closebox73/Leonis?style=for-the-badge&color=9ECE6A">
+</p>
 
+<p align="center">
 A Conky themes pack which I made in hopes of beautifying your desktop, for now this repository is only used as a catalog for the themes that I made, and as a place to look for solutions if there are errors from that theme
+</p>
 
-## :book: The Myth about Leonis
+<h2 align="center">:book: The Myth about Leonis :book:</h2>
+
+<p align="center">
 Leo represents the Nemean Lion, a beast with an impenetrable hide and razor sharp claws.  Some say It lived in the hills of Nemea in Greece.  It originally lived on the Moon and it descended to Earth as a shooting star.  Killing this creature was the first of the 12 Labors of Hercules.  The hero defeated the lion by wrestling it until he could lock his arms around it and then strangled it to death.  He used the lion’s own claws, the only things sharp enough, to skin the beast.  From that day forward Hercules wore the pelt as his armor.  The king of gods placed this king of the beasts back into the sky from where it had originally come.<br>
-*( Source : [Under the night sky ](http://www.underthenightsky.com/constellations/leo/))*
+<em>(( Source : <a href="http://www.underthenightsky.com/constellations/leo/">Under the night sky</a> ))</em>
+</p>
 
-![](/Asset/Leonis.jpg)
-|--|
+![](/Asset/Leonis.png)
 
 ## :framed_picture: Showcase :
 Thanks for dropping by, I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
@@ -106,24 +120,10 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### :lion: Adhafera theme
-![](/Asset/Adhafera.jpg)
-- Download this theme at Pling.com [Here](https://www.pling.com/p/1959962/)
-- Wallpaper [Here](https://unsplash.com/photos/EQ2srpKQkAU)
-
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
-
 ### :lion: Denebola theme
 ![](/Asset/Denebola.jpg)
 - Version : 1.0
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1966107/)
-
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
-
-### :lion: Zozma theme
-![](/Asset/Zozma.jpg)
-- Version : 1.5
-- Download this theme at Pling.com [Here](https://www.pling.com/p/1832454/)
 ----------------------------------------------------------------
 ### Featured
 ### :lion: Sirius theme
@@ -136,12 +136,6 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
-### :lion: Murphid theme
-![](/Asset/Murphid.jpg)
-- Download this theme at Pling.com [Here](https://www.pling.com/p/1843842/)
-
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
-
 ### :lion: Izar theme
 ![](/Asset/Izar.jpg)
 - Version : 3.0
@@ -150,15 +144,23 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
 	- [Rubik](https://fonts.google.com/specimen/Rubik)
 	- [Feather](https://github.com/AT-UI/feather-font)
+	
+<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
+	
+<p align="center">
+Feel something is missing? try to visit <a href="https://github.com/closebox73/Star_Graves">Here</a>, maybe it's already buried there.
+</p>
+
 ----------------------------------------------------------------
 
 ## :moneybag: Tip Jar :
-if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
-thank you from all my heart
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes, thank you from all my heart. Using Paypal :
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/closebox73) 
 
-or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
+or the easiest way is to download my theme on Pling Store :
+
+[![](https://img.shields.io/badge/Pling_Store-FA5E0C?style=for-the-badge)](https://www.pling.com/u/closebox73x)
 
 ## :desktop_computer: How to use theme :
 - Download the theme in the link below the preview of each theme
@@ -211,7 +213,24 @@ And the greatest appreciation for the people who have bought my theme at my ~~Ko
 	- Imlib Clock Lua by Etles_Team
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
+	
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Leonis&countColor=%23FAA356">
+</p>
 
-![](/Asset/logos.png)
-<p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
-<p align="center"><a href="https://github.com/closebox73/Leonis/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=A02C2C"/></a></p>
+<div align="center" id="Leonis">
+    <img src="https://github.com/closebox73/Leonis/blob/main/Asset/Logo.svg" width="280", height="200">
+</div>
+
+<p align="center">
+Want to say hello?? Contack me at :
+</p>
+
+<p align="center">
+  <a href="https://t.me/closebox73x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Telegram-D01DF0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://twitter.com/closebox73" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discord.com/users/1115644269802311750" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://matrix.to/#/@closebox73:matrix.org" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/matrix-0A976F?style=for-the-badge&logo=Matrix&logoColor=white"></a>
+</p>
+
+<p align="center"><a href="#readme-top">---------- || Back to top || ----------</a></p>
