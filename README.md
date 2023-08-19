@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center" id="Leonis">
-    <img src="https://github.com/closebox73/Leonis/blob/main/Asset/Leonis.svg" width="450", height="300">
+    <img src="https://github.com/closebox73/Leonis/blob/master/Asset/Leonis.svg" width="450", height="300">
 </div>
 <h1 align="center">Conky Themes Pack</h1>
 
@@ -219,7 +219,7 @@ And the greatest appreciation for the people who have bought my theme at my ~~Ko
 </p>
 
 <div align="center" id="Leonis">
-    <img src="https://github.com/closebox73/Leonis/blob/main/Asset/Logo.svg" width="280", height="200">
+    <img src="https://github.com/closebox73/Leonis/blob/master/Asset/Logo.svg" width="280", height="200">
 </div>
 
 <p align="center">
