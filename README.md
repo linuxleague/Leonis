@@ -43,7 +43,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ### :lion: Mimosa theme
 #### Dark Version
 ![](/Asset/Mimosa-dark.jpg)
-- Version : 2.3
+- Version : 2.6
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1869486/)
 - Font :
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
@@ -52,7 +52,7 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 	
 #### Light Version
 ![](/Asset/Mimosa-Light.jpg)
-- Version : 2.3
+- Version : 2.6
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1982387/)
 - Font :
 	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
