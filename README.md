@@ -54,10 +54,14 @@ Thanks for dropping by, I invite anyone who wants to show Conky's creations here
 ![](/Asset/Mimosa-Light.jpg)
 - Version : 2.6
 - Download this theme at Pling.com [Here](https://www.pling.com/p/1982387/)
+
+#### Calendar Version
+![](/Asset/Mimosa-Cal.jpg)
+- Version : 1.0
+- Download this theme at Pling.com [Here](https://www.pling.com/p/1869486/)
+- Wallpaper [Here](https://unsplash.com/photos/ljXekphwr40)
 - Font :
-	- [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
-	- [Abel](https://fonts.google.com/specimen/Abel)
-	- [Feather](https://github.com/AT-UI/feather-font)
+	- [Fantasque Sans Mono](https://www.fontsquirrel.com/fonts/fantasque-sans-mono)
 
 <p align="center"><b><samp>---------- |||||| ----------</samp></b></p>
 
